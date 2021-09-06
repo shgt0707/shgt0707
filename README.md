@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shgt0707
-- 👀 I’m interested in anything realted to Data Analytics and Data Science
-- 🌱 I’m currently learning more about machine learning through Thinkful bootcamp
+- 👀 I’m interested in anything related to Data Analytics and Data Science
+- 🌱 I’m currently learning more about Data Science/machine learning through Thinkful bootcamp
 - 💞️ I’m looking to collaborate on any data science projects
 - 📫 Reach me at shenght.007@gmail.com
 
